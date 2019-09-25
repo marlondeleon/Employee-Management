@@ -1,0 +1,31 @@
+.table-profile-image img {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+}
+
+.profile-image img,
+#image-container img {
+  display: block;
+  width: 182px;
+  height: 182px;
+  max-width: 182px;
+  max-height: 182px;
+  border: 1px solid #d2d6de;
+}
+
+.pay-history-pagination .pagination {
+  margin: 0 0;
+}
+
+.fa-warning {
+  color: orangered;
+}
+
+.error {
+  color: red;
+}
+
+.content-header>.breadcrumb {
+  margin-top:-8px;
+}
